@@ -1,0 +1,19 @@
+{
+  "wheel_id": 374,
+  "structure": "umbrella",
+  "slug": "adelaidefinancebroker-com-150",
+  "project": "finance-broker-adelaide-85b0ccd449d624d879802df36013852b0581",
+  "parent_t1_ref": "adelaidefinancebroker.com-005",
+  "node_role": "buffer",
+  "money_target": "adelaidefinancebroker.com.au",
+  "primary_kw": "finance broker adelaide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/finance-broker-adelaide-85b0ccd449d624d879802df36013852b0581/",
+  "writeback_nonce": "41e4c836123e698b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/finance-broker-adelaide/",
+      "anchor": "finance broker adelaide",
+      "rel": "follow"
+    }
+  ]
+}
